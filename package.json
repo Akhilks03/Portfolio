@@ -35,5 +35,8 @@
   ],
   "dependencies": {
     "sass": "^1.79.4"
+  },
+  "resolutions": {
+    "node-sass": "^6.0.0"
   }
 }
